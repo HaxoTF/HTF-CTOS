@@ -1,4 +1,4 @@
-# 🎨 HaxoTF's Terms of Service - Furry Comissions
+# 🎨 HaxoTF's Terms of Service - Furry Commissions
 
 | Status | ✅ Open |
 |:-:|:-:|
@@ -10,9 +10,9 @@
 
 > 📝 **Note:** Prices are expressed in USD per character
 
-|| 🌒 Head | 🌓 Half | 🌕 Full
+| Style \ Size | 🌒 Head | 🌓 Half | 🌕 Full
 |:-:|:-:|:-:|:-:|
 | 💚 **Basic**  | 💲3 | 💲5 | 💲8
 | 🔥 **Shaded** | 💲4 | 💲7 | 💲10
 
-[Explain](explanation.md#artwork-type)
+[Need Explanation?](explanation.md#artwork-type)

@@ -2,11 +2,12 @@
 
 ### 📏 Size Options
 
-| Term | AKA | What You Get
-|:-:|:-:|:-
-| 🌒 **Head** | *Headshot* | Only **head** of the character
-| 🌓 **Half** | *Halfbody* | From head to **waist**
-| 🌕 **Full** | *Fullbody* | The **whole** character, from top to bottom
+| Term | AKA | What You Get | Example
+|:-:|:-:|:-|:-:
+| 🌒 **Head** | *Headshot* | Only **head** of the character | [Link](assets/examples/head1.png)
+| 🌓 **Half** | *Halfbody* | From head to **waist** | [Link]()
+| 🌔 **Most** | ???        | From head to **thighs** | [Link](assets/examples/most1.png)
+| 🌕 **Full** | *Fullbody* | The **whole** character, from top to bottom | [Link](assets/examples/full1.png)
 
 ### 📝 Style Options
 
