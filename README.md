@@ -4,6 +4,8 @@
 |:-:|:-:|
 | Last Update | 9 / 5 / 2025 |
 
+<br>
+
 # 💵 Prices
 
 > 📝 **Note:** Prices are expressed in USD per character
@@ -13,4 +15,4 @@
 | 💚 **Basic**  | 💲3 | 💲5 | 💲8
 | 🔥 **Shaded** | 💲4 | 💲7 | 💲10
 
-> [Explain]()
+[Explain](explanation.md#artwork-type)
